@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:random_names/random_names.dart';
-
+/*
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
 
@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
     textAlign: TextAlign.center,
   );
 }
-
+*/
 /*class RandomWordsState extends State<RandomWords> {
   @override
   Widget build(BuildContext context) {

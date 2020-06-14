@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import "package:heated/ui/home/home_page.dart";
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:random_names/random_names.dart';
 
 class HeatedApp extends StatelessWidget {
   // This widget is the root of your application.
